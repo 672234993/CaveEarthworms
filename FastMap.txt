@@ -1,0 +1,46 @@
+SampleID	Habitat	species	surfaceORcave	note
+Chen001	Gut	Allolobophora chlorotica	surface	PP
+Chen002	Gut	Allolobophora chlorotica	surface	PP
+Chen003	Gut	Allolobophora chlorotica	surface	PP
+Chen004	Gut	Allolobophora chlorotica	surface	PP
+Chen005	Gut	Allolobophora chlorotica	surface	PP
+Chen006	Gut	Allolobophora chlorotica	cave	Z4(a)
+Chen007	Gut	Allolobophora chlorotica	cave	Z4(a)
+Chen008	Gut	Allolobophora chlorotica	cave	Z4(a)
+Chen009	Gut	Allolobophora chlorotica	cave	Z4(a)
+Chen010	Gut	Allolobophora chlorotica	cave	Z4(a)
+Chen011	Gut	Allolobophora chlorotica	cave	Z4(b)
+Chen012	Gut	Allolobophora chlorotica	cave	Z4(b)
+Chen013	Gut	Allolobophora chlorotica	cave	Z4(b)
+Chen014	Gut	Allolobophora chlorotica	cave	Z4(b)
+Chen015	Gut	Allolobophora chlorotica	cave	Z4(b)
+Chen016	Gut	Aporrectodea rosea	surface	AP
+Chen017	Gut	Aporrectodea rosea	surface	AP
+Chen018	Gut	Aporrectodea rosea	surface	AP
+Chen019	Gut	Aporrectodea rosea	surface	AP
+Chen020	Gut	Aporrectodea rosea	surface	AP
+Chen021	Gut	Aporrectodea rosea	cave	Z3
+Chen022	Gut	Aporrectodea rosea	cave	Z3
+Chen023	Gut	Aporrectodea rosea	cave	Z3
+Chen024	Gut	Aporrectodea rosea	cave	Z3
+Chen025	Gut	Aporrectodea rosea	cave	Z3
+Chen026	Soil	soil	cave	Z4(a)
+Chen027	Soil	soil	cave	Z4(a)
+Chen028	Soil	soil	cave	Z4(a)
+Chen029	Soil	soil	cave	Z4(a)
+Chen030	Soil	soil	cave	Z4(a)
+Chen031	Soil	soil	cave	Z3
+Chen032	Soil	soil	cave	Z3
+Chen033	Soil	soil	cave	Z3
+Chen034	Soil	soil	cave	Z3
+Chen035	Soil	soil	cave	Z3
+Chen036	Soil	soil	surface	AP
+Chen037	Soil	soil	surface	AP
+Chen038	Soil	soil	surface	AP
+Chen039	Soil	soil	surface	AP
+Chen040	Soil	soil	surface	AP
+Chen041	Soil	soil	surface	PP
+Chen042	Soil	soil	surface	PP
+Chen043	Soil	soil	surface	PP
+Chen044	Soil	soil	surface	PP
+Chen045	Soil	soil	surface	PP
